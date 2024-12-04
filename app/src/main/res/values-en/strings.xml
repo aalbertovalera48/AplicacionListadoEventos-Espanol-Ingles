@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Event Manager</string>
+    <string name="event_list_title">Events</string>
+    <string name="add_event">Add Event</string>
+    <string name="event_form_title">Event Registration</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="address">Address</string>
+    <string name="price">Price</string>
+    <string name="date">Date</string>
+    <string name="capacity">Capacity</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="image_placeholder" translatable="false">Image of the Event</string>
+</resources>
