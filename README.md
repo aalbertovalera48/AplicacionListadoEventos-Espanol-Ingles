@@ -1,5 +1,5 @@
 # Gestor-de-Eventos
-
+Hecho por: Alberto Valera
 Gestor de Eventos es una aplicación Android para gestionar eventos. Los usuarios pueden agregar, ver y guardar eventos con detalles como nombre, descripción, dirección, precio, fecha, aforo y una imagen opcional.
 
 ## Clases y Métodos
